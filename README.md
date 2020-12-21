@@ -1,3 +1,3 @@
 # Quizhub
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/amertaslan/Quizhub/blob/screenshot_mockups/1.PNG?raw=true)
